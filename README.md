@@ -1,1 +1,1 @@
-# Parkinson
+# Parkinson Disease Prediction
